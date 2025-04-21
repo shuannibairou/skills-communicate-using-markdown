@@ -1,0 +1,75 @@
+一，主要快捷键列表
+
+Ctrl + L选择整行（按住 - 继续选择下行）
+
+Ctrl + KK从光标处删删至行尾
+
+Ctrl + Shift + K删除整行
+
+
+Ctrl + Shift + D复制光标所在整行，插入在该行之前
+
+Ctrl + J合并行（已选择需要合并的多行时）
+
+Ctrl + KU改为大写
+
+Ctrl + KL改为小写
+
+Ctrl + D选词（按住 - 继续选择下个相同的字符串）
+
+Ctrl + M光标移动至括号内开始或结束的位置
+
+Ctrl + Shift + M选择括号内的内容（按住 - 继续选择父括号）
+
+Ctrl + /注释整行（如已选择内容，同“Ctrl + Shift + /”效果）
+
+Ctrl + Shift + /注释已选择内容
+
+Ctrl + Z撤销
+
+Ctrl + Y恢复
+
+Ctrl + M光标跳至对应的括号
+
+
+Ctrl + p查找某个指定文件并打开，
+Ctrl + ;或者字符串
+Alt + - 回到之前的页面
+Alt +左方向键 光标移动一个句子或单词的长度	
+Alt +。闭合当前标签
+Alt + Shift + 数字 分栏
+
+Ctrl + Shift + A选择光标位置父标签对儿
+
+Ctrl + Shift + [折叠代码
+
+Ctrl + Shift +]展开代码
+
+Ctrl + KT折叠属性
+
+Ctrl + K0展开所有
+
+Ctrl + U软
+Ctrl + T词互换
+Tab缩进自动完成
+
+
+Shift + Tab去除缩进
+
+Ctrl + Shift +↑与上行互换
+
+Ctrl + Shift +↓与下行互换
+
+Ctrl + K Backspace从光标处删除至行首
+
+Ctrl + Enter光标后插入行
+
+Ctrl + Shift + Enter光标前插入上行
+
+
+Ctrl + F2设置书签
+
+F2下一个书签
+
+Shift + F2上一个书签
+Shift + F11>>进入专注模式
